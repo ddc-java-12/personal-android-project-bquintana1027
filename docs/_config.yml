@@ -11,7 +11,7 @@ titles_from_headings:
 title: "Timely"
 description: "A simple time tracking application that allows you to track work hours across projects"
 author: Benjamin Quintana
-  name: "Benjamin Quintana"
+name: "Benjamin Quintana"
 
 # Do not change the following line.
   copyright: true
