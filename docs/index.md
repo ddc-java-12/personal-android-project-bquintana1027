@@ -10,7 +10,7 @@ Creatives who frequently track their time spent on projects to ensure proper bil
 
 Creatives who are growing their skill set and want to know how much time they're spending in learning environments.
 
-    > As a creative who loves to be immersed in the process i'm curious to how much time is spent using the tools of my trade.
+> As a creative who loves to be immersed in the process i'm curious to how much time is spent using the tools of my trade.
 
 ## Functionality
 
