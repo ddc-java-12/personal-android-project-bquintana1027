@@ -8,9 +8,9 @@ titles_from_headings:
 
 # Modify the contents below for the specific project.
 
-title: "Android Project Proposal"
-description: "Trust me, it'll be cool!"
-author:
+title: "Timely"
+description: "A simple time tracking application that allows you to track work hours acorss projects"
+author: Benjamin Quintana
   name: "Java+Android Student"
 
 # Do not change the following line.
