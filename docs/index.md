@@ -4,21 +4,23 @@ Timely is a time tracking application that allow users to track their work and c
 
 ## Intended users
 
-Creatives who frequently track their time spent on projects to ensure proper billing for services. 
+Creatives who work on mutiple contracts. 
 
 > As a digital freelancer with a crazy schedule I want to be able to track my time spent on specific projects. This will help me when billing hourly for services. 
 
-Creatives who are growing their skill set and want to know how much time they're spending in learning environments.
+Creatives who are early in their careers.
 
-> As a creative who loves to be immersed in the process i'm curious to how much time is spent using the tools of my trade.
+> As a creative who loves to be immersed I want the ability to see what I spend most of my time to help me create better time management. 
 
 ## Functionality
 
 User will be able to
 - Track time spent on projects.
 - Utilize the application management for a team, project and specific client.
-- Data collection & reporting
+- Data collection (Hours spent per project, client and price points for billing)
+- Reports (Total Hours, Total Projects, Projects per client, Hours per project)
 - Calender and Project History
+- Timing feature that accurately tracks by start and stop feature. 
 
 ## Persistent data
 
@@ -29,7 +31,7 @@ User will be able to
 
 ## Device/external services
 
-- N/A 
+- Calendar integrated into the application. Will show past,completed and upcoming projects, clients and deadlines. 
 
 ## Stretch goals/possible enhancements 
 
