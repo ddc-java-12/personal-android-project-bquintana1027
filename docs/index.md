@@ -31,7 +31,7 @@ User will be able to
 
 ## Device/external services
 
-- Calendar integrated into the application. Will show past,completed and upcoming projects, clients and deadlines. 
+- Tag entry system which would allow us to create entries with mutiple tags. We could then view each tag by project, client etc. This would also allow us to list time entries by tag within certain date ranges. 
 
 ## Stretch goals/possible enhancements 
 
