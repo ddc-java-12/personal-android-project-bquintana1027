@@ -31,7 +31,17 @@ User will be able to
 
 ## Device/external services
 
-- Tag entry system which would allow us to create entries with mutiple tags. We could then view each tag by project, client etc. This would also allow us to list time entries by tag within certain date ranges. 
+Tag entry system 
+  - which would allow us to create entries with multiple tags. We could then view each tag by project, client etc. This would also allow us to list time entries by tag within certain date ranges. 
+
+Google Calender API
+ - https://developers.google.com/calendar
+ - I believe I could use Google Calendar API as the primary calendar the app would use to track activity across pages. 
+   
+Timing Logger
+- https://developer.android.com/reference/android/util/TimingLogger
+- Not sure if this is considered an external service if this API is created by Android Developers. But the ability to track time across multilpe events & dates is a core element to making this application work. 
+
 
 ## Stretch goals/possible enhancements 
 
