@@ -1,3 +1,10 @@
+---
+title:Overview
+description: Project summary and intended users
+menu:Overview
+order: 0
+___
+
 ## Summary
 
 Timely is a time tracking application that allow users to track their work and creative hours all in one place. 
