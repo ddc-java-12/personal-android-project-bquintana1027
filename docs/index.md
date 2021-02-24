@@ -26,7 +26,7 @@ User will be able to
 - Utilize the application management for a team, project and specific client.
 - Data collection (Hours spent per project, client and price points for billing)
 - Reports (Total Hours, Total Projects, Projects per client, Hours per project)
-- Calender and Project History
+- Calendar and Project History
 - Timing feature that accurately tracks by start and stop feature. 
 
 ## Persistent data
