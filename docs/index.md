@@ -1,14 +1,9 @@
----
-title:Overview
-description: Project summary and intended users
-menu:Overview
-order: 0
-___
-
-## Summary
+<h1> Summary </h1>
+<p>
 
 Timely is a time tracking application that allow users to track their work and creative hours all in one place. 
 
+</p>
 ## Intended users
 
 Creatives who work on mutiple contracts. 
