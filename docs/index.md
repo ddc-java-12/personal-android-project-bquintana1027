@@ -6,7 +6,7 @@ order: 0
 ---
 
 
-
+## Summary
 
 Timely is a time tracking application that allow users to track their work and creative hours all in one place.
 A productivity app that gives user insight on where their time is spent. 
@@ -47,7 +47,7 @@ Creatives who are early in their careers.
 ## Device/external services
  
 Timing Logger
-- [Documentation] (https://developer.android.com/reference/android/util/TimingLogger)
+- Documentation link: https://developer.android.com/reference/android/util/TimingLogger
 - In the time entry page the user will be able to start and stop timing. 
 - Time logger will be used to track the time spent executing any project.
 - I believe the app should be able to function without service utilizing TimeLoggger.
