@@ -1,9 +1,16 @@
-<h1> Summary </h1>
-<p>
+---
+title: Overview
+description: Timely the app that helps you keep track.
+menu: Overview
+order: 0
+---
+
+
+
 
 Timely is a time tracking application that allow users to track their work and creative hours all in one place. 
 
-</p>
+
 ## Intended users
 
 Creatives who work on mutiple contracts. 
